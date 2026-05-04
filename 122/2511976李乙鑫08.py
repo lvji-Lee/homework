@@ -5,7 +5,7 @@ Hilber-Huang Transform (HHT) 实现示例
 1. EMD: 经验模态分解
 2. HSA: 希尔伯特谱分析 (Hilbert Spectrum)
 
-作业任务:
+作业任务: 修改！！
   - 在开头定义目标函数 x(t)
   - 自动分解为若干 IMF
   - 对每个 IMF 做 Hilbert 变换
